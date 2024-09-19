@@ -9,7 +9,6 @@
 
 # Sobre
 Estudando e Praticando para fortalecer Aprendizado 
-![Captura de tela 2024-01-11 171014](https://github.com/hebertfarias/Python-NTT-DIO.git )
 
 
 <p> Python Praticando </p>
