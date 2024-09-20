@@ -1,5 +1,5 @@
 Menu = ("""
-    ########## Seja Bem Vindo(a) Banco Jacu ##########
+    ########## Seja Bem Vindo(a) D-Bank  ##########
     
                 $$$$$$$$$$ Menu $$$$$$$$$$
                 
@@ -8,7 +8,7 @@ Menu = ("""
     [3] extrato
     [4] Sair
     
-    ################## Deus Abençoe ##################
+    ################## Obrigado por usar nossos serviços ##################
     """)
 
 
@@ -63,7 +63,7 @@ while True:
       print("============================================")
       
   elif opcao == "4":
-      print("\n                Banco Jacu Agradeçe pela Parceria")
+      print("\n                D-Bank Agradeçe pela Parceria")
       print("\n      5################## Volte Sempre ################## \n")
       break
   
